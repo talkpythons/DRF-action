@@ -2,4 +2,8 @@
 *.pyc
 __pycache__
 notes.md
+*migrations
 *venv
+db.sqlite3
+
+
